@@ -1,0 +1,7 @@
+customer_id,purchase_date,product_category,amount_spent,membership_rank
+C001,2023-03-01,Electronics,250.0,Silver
+C002,2023-03-02,Books,45.5,Bronze
+C003,2023-03-03,Home & Garden,150.75,Silver
+C001,2023-03-04,Books,20.0,Bronze
+C002,2023-03-05,Electronics,525.0,Platinum
+C005,2023-03-07,Beauty,75.0,Bronze
